@@ -20,9 +20,10 @@ _Set up webpack to allow creating a live development server. Eslint, HTMLWebpack
 ### Run locally
 _You'll need Git and Node.js_
 * Clone from GitHub
-* From project's root directory in the command line: `npm install`
+* From project's root directory in the command line/terminal: `npm install`
 * To build without launching, type `npm run build`
 * `npm run start` to build and run project on live development server
+* To run tests: from project's root directory in the command line/terminal, `npm run test`
 ### If using as a template
 * Specify project name and author in package.json
 * Delete src/triangle.js
