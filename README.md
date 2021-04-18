@@ -4,7 +4,7 @@
 
 #### By _**Victoria West**_
 
-## Technologies Used
+## Technologies Used (update?)
 * HTML
 * CSS
 * Bootstrap
@@ -24,7 +24,7 @@ _You'll need Git and Node.js_
 * To build without launching, type `npm run build`
 * `npm run start` to build and run project on live development server
 * To run tests: from project's root directory in the command line/terminal, `npm run test`
-### Update: API set-up?
+### Update: API set-up?  Include all steps for getting a key - from the link to sign up for an account to any steps to getting an API key to using a personal key with a .env file
 
 ## Known Bugs
 * 
